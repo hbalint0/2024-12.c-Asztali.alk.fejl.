@@ -1,0 +1,7 @@
+C:\Users\2021130\source\repos\2024-12.c-Asztali.alk.fejl\TEST\bin\Debug\TEST.exe.config
+C:\Users\2021130\source\repos\2024-12.c-Asztali.alk.fejl\TEST\bin\Debug\TEST.exe
+C:\Users\2021130\source\repos\2024-12.c-Asztali.alk.fejl\TEST\bin\Debug\TEST.pdb
+C:\Users\2021130\source\repos\2024-12.c-Asztali.alk.fejl\TEST\obj\Debug\TEST.csproj.AssemblyReference.cache
+C:\Users\2021130\source\repos\2024-12.c-Asztali.alk.fejl\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\2021130\source\repos\2024-12.c-Asztali.alk.fejl\TEST\obj\Debug\TEST.exe
+C:\Users\2021130\source\repos\2024-12.c-Asztali.alk.fejl\TEST\obj\Debug\TEST.pdb
