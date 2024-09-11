@@ -18,11 +18,11 @@ namespace TobbElem
                 if(szam!=null)
                 {
                 Console.WriteLine("Megadott szám:" + szam.ToString());
-                Összeg += 100;
+                Összeg += szam;
                 Console.WriteLine("Összeg:" + Összeg);
                 if(Összeg >=100)
                 {
-                    Console.WriteLine("A megadott számok összege több, mint száz" + Összeg);
+                    Console.WriteLine("A megadott számok összege több vagy egyenlő, mint száz");
                     Console.ReadKey();
                     break;
                 }
